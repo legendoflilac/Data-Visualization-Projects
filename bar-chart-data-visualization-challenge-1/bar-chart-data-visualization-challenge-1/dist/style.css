@@ -1,0 +1,32 @@
+.bar {
+    fill: purple;
+		opacity: .9;
+  }
+.bar:hover {
+	fill: red;
+}
+.tooltip {
+	border: 2px solid gray;
+  background-color: white;
+  position: absolute;
+	padding: 10px;
+  color: black
+  font-size: 14px;
+  pointer-events: none;
+}
+body {
+	background-color: lightgray;
+}
+#main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.visual {
+	
+}
+#title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

@@ -1,0 +1,24 @@
+.dot {
+	stroke: black;
+}
+
+.tooltip {
+	border: 2px solid gray;
+	border-radius: 5px;
+	background-color: white;
+	position: absolute;
+	padding: 10px;
+	color: black;
+	font-size: 14px;
+	pointer-events: none;
+}
+#title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

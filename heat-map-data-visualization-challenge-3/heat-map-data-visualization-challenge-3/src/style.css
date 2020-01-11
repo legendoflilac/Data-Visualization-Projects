@@ -1,0 +1,20 @@
+.tooltip {
+	color: white;
+	border: 2px solid gray;
+	border-radius: 5px;
+	background-color: black;
+	position: absolute;
+	padding: 10px;
+	font-family: arial;
+	text-align: center;
+	font-size: 14px;
+	pointer-events: none;
+}
+#title {
+	font-size: 20px;
+}
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

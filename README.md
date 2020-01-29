@@ -7,4 +7,4 @@ The most updated versions of these projects can be found below.
 2. [Scatter Plot](https://codepen.io/legendoflilac/pen/mdymwoz)
 3. [Heat Map](https://codepen.io/legendoflilac/pen/LYEONqX)
 4. [Choropleth Map](https://codepen.io/legendoflilac/pen/VwYdLOp)
-5. [Coming Soon--Treemap Diagram]()
+5. [Treemap Diagram](https://codepen.io/legendoflilac/pen/xxbQpWE)

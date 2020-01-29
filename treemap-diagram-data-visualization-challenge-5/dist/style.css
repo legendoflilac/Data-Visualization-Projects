@@ -1,0 +1,29 @@
+* {
+	background-color: #f5eaea;
+	font-family: tahoma;
+}
+.tooltip {
+	position: absolute;
+	background-color: gray;
+	padding: 10px;
+	border-radius: 2px;
+	font-family: tahoma;
+	pointer-events: none;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#visualization {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+h1 {
+	font-size: 25px;
+}
+p {
+	font-size: 15px;
+}
